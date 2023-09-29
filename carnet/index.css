@@ -1,0 +1,62 @@
+form.hide{
+    display: none;
+}
+
+body{
+    background-image: url(page-carnet-notes-ligne-blanc-bord-dechire_92242-456.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: -20px;
+    margin-left: 25px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+#retrieve {
+    
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+
+.top{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.list{
+    margin-bottom: 100px;
+}
+
+button{
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+}
+
+#submit{
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+}
+
+input{
+    border-radius: 10px;
+    margin-left: 10px;
+}
